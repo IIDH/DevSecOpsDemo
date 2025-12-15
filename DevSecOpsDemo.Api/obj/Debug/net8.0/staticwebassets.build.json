@@ -1,0 +1,12 @@
+{
+  "Version": 1,
+  "Hash": "q8GcENzOguRXCL/eRcjhOI7Aa2IKxaBXv/8bDvxAQhg=",
+  "Source": "DevSecOpsDemo.Api",
+  "BasePath": "_content/DevSecOpsDemo.Api",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}
